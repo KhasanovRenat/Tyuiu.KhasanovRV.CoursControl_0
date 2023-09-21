@@ -3,7 +3,7 @@
 
 #include "pch.h"
 #include "framework.h"
-#include "../../Tyuiu.CoursControl_0/Tyuiu.CoursControl_0.cpp"
+#include "../Tyuiu.CoursControl_0/Tyuiu.CoursControl_0.cpp"
 
 // TODO: This is an example of a library function
 class Service1 : public ISprint0Task8V2
